@@ -28,7 +28,7 @@
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2"
+      "iframeSrc": "https://m.xigzo.store/?play=0a0ad851d705"
     },
     {
       "id": "SONY3",
