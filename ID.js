@@ -97,10 +97,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
     },
     {
-      "id": "prime-nz",
-      "name": "PRIME",
+      "id": "SS1K",
+      "name": "Star Kannada SD",
       "type": "iframe",
-      "iframeSrc": "https://hff-eight.vercel.app/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kannada"
     }
   
   ]
