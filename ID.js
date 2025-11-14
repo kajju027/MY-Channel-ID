@@ -49,10 +49,10 @@
       "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
      },
      {
-      "id": "fox",
-      "name": "Fox Cricket 501",
+      "id": "SSK",
+      "name": "Star Sports Khal",
       "type": "iframe",
-      "iframeSrc": "https://fox-501-allrounder745.onrender.com/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
      },
     {
       "id": "TEN",
@@ -61,34 +61,34 @@
       "iframeSrc": "https://bongoflixbd.top/test/?watch=ten_cricket"
     },
     {
-      "id": "eng",
+      "id": "SS1",
       "name": "Star Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://m.xigzo.store/?play=d581dd66e556"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1142"
     },
     {
-      "id": "PKL",
-      "name": "Pro Kabaddi FINAL 🏆",
+      "id": "SS2",
+      "name": "Star Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20HINDI%20SD"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1141"
     },
      {
-      "id": "astro",
-      "name": "Astro",
+      "id": "SSS1",
+      "name": "Star Select 1",
       "type": "iframe",
-      "iframeSrc": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=844"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1123"
     },
     {
-      "id": "Foxx",
-      "name": "Fox 🦊 TV",
+      "id": "SSS2",
+      "name": "Star Select 2",
       "type": "iframe",
-      "iframeSrc": "https://channel-07.vercel.app/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1114"
     },
   {
-      "id": "cwc",
-      "name": "cwc",
+      "id": "SST1",
+      "name": "Star Tamil 1",
       "type": "iframe",
-      "iframeSrc": "https://cricketstan.github.io/cwc/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1124"
     },
     {
       "id": "tnt-1",
