@@ -1,7 +1,7 @@
 {
   "iframes": [
     {
-      "id": "TEN",
+      "id": "TENN",
       "name": "CWC FINAL 🏆🫅 ",
       "type": "iframe",
       "iframeSrc": "https://v5on.site/pl.m3u8?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"
@@ -56,9 +56,9 @@
      },
     {
       "id": "TEN",
-      "name": "Ten Cricket 4K",
+      "name": "Ten Cricket HD",
       "type": "iframe",
-      "iframeSrc": "https://m.xigzo.store/?play=86db7302947d"
+      "iframeSrc": "https://v5on.site/pl.m3u8?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"
     },
     {
       "id": "eng",
