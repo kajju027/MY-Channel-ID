@@ -91,10 +91,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1124"
     },
     {
-      "id": "tnt-1",
-      "name": "TNT Sports 1",
+      "id": "SS1T",
+      "name": "Star Telagu 1",
       "type": "iframe",
-      "iframeSrc": "https://cricketstan.github.io/TNT-1/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
     },
     {
       "id": "prime-nz",
