@@ -22,13 +22,13 @@
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-1"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_1_hd"
     },
     {
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_2_hd"
     },
     {
       "id": "SONY3",
