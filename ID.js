@@ -13,10 +13,10 @@
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup"
     },
     {
-      "id": "HINDI",
-      "name": "CWC FINAL 🫅 (हिंदी)",
+      "id": "SS2H",
+      "name": "Star Sports 2 (हिंदी)",
       "type": "iframe",
-      "iframeSrc": "https://tv4live.github.io/ID11/?id=toffee1"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1985"
     },
     {
       "id": "SONY1",
