@@ -7,10 +7,10 @@
       "iframeSrc": "https://v5on.site/pl.m3u8?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"
     },
     {
-      "id": "FoxTV",
+      "id": "ASIA-CUP",
       "name": "FOX TV 🔥",
       "type": "iframe",
-      "iframeSrc": "https://channel-04.vercel.app/"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup"
     },
     {
       "id": "HINDI",
