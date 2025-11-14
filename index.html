@@ -12,8 +12,8 @@
 <style>
 :root {
     --bg-color: #0a0a1a;
-    --primary-blue: #000b80;
-    --primary-blue-dark: #00075a;
+    --primary-blue: #b30062; /* পরিবর্তিত: নীল থেকে #b30062 */
+    --primary-blue-dark: #8c004d; /* পরিবর্তিত: গাঢ় নীলের পরিবর্তে #b30062 এর গাঢ় শেড */
     --card-bg: #101020;
     --text-light: #f1f5f9;
     --text-muted: #94a3b8;
@@ -68,9 +68,9 @@ body {
     animation: pulse 1.5s infinite;
 }
 @keyframes pulse {
-    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0,11,128,0.6); }
-    70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(0,11,128,0); }
-    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(0,11,128,0); }
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(179,0,98,0.6); } /* পরিবর্তিত: rgba(0,11,128,0.6) থেকে */
+    70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(179,0,98,0); } /* পরিবর্তিত */
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(179,0,98,0); } /* পরিবর্তিত */
 }
 
 #player-container {
@@ -120,7 +120,7 @@ body {
 }
 .action-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 15px rgba(0,11,128,0.5);
+    box-shadow: 0 6px 15px rgba(179,0,98,0.5); /* পরিবর্তিত: rgba(0,11,128,0.5) থেকে */
 }
 .action-button.copied { background: linear-gradient(90deg, #22c55e, #4ade80); }
 
@@ -155,8 +155,8 @@ body {
     color: var(--text-light);
     padding: 35px 25px;
     border-radius: 18px;
-    border: 1px solid rgba(0,11,128,0.4);
-    box-shadow: 0 0 25px rgba(0,11,128,0.5);
+    border: 1px solid rgba(179,0,98,0.4); /* পরিবর্তিত: rgba(0,11,128,0.4) থেকে */
+    box-shadow: 0 0 25px rgba(179,0,98,0.5); /* পরিবর্তিত: rgba(0,11,128,0.5) থেকে */
     z-index: 10000;
     text-align: center;
     width: 90%;
@@ -176,7 +176,7 @@ body {
     font-size: 1.7rem;
     font-weight: 700;
     margin-bottom: 0.75rem;
-    text-shadow: 0 0 10px rgba(0,11,128,0.5);
+    text-shadow: 0 0 10px rgba(179,0,98,0.5); /* পরিবর্তিত: rgba(0,11,128,0.5) থেকে */
 }
 
 .telegram-popup p {
@@ -201,11 +201,11 @@ body {
 .telegram-popup .join-btn {
     background: linear-gradient(90deg, var(--primary-blue), var(--primary-blue-dark));
     color: white;
-    box-shadow: 0 0 10px rgba(0,11,128,0.5);
+    box-shadow: 0 0 10px rgba(179,0,98,0.5); /* পরিবর্তিত: rgba(0,11,128,0.5) থেকে */
 }
 .telegram-popup .join-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 0 20px rgba(0,11,128,0.7);
+    box-shadow: 0 0 20px rgba(179,0,98,0.7); /* পরিবর্তিত: rgba(0,11,128,0.7) থেকে */
 }
 
 .telegram-popup .joined-btn {
@@ -226,7 +226,7 @@ body {
     height: 20px;
     background-color: var(--primary-blue);
     border-radius: 50%;
-    box-shadow: 0 0 15px rgba(0,11,128,0.7);
+    box-shadow: 0 0 15px rgba(179,0,98,0.7); /* পরিবর্তিত: rgba(0,11,128,0.7) থেকে */
     cursor: pointer;
     z-index: 9999;
 }
@@ -236,10 +236,10 @@ body {
     bottom: 60px;
     right: 20px;
     background-color: #0c0c20;
-    border: 1px solid rgba(0,11,128,0.4);
+    border: 1px solid rgba(179,0,98,0.4); /* পরিবর্তিত: rgba(0,11,128,0.4) থেকে */
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0,11,128,0.5);
+    box-shadow: 0 0 20px rgba(179,0,98,0.5); /* পরিবর্তিত: rgba(0,11,128,0.5) থেকে */
 }
 .visitor-popup img {
     width: 150px;
