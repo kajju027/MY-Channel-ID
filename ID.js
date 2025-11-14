@@ -40,13 +40,13 @@
       "id": "SONY4",
       "name": "Sony Sports 4",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-4"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_4_hd"
     },
      {
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-5"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
      },
      {
       "id": "fox",
