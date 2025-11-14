@@ -8,7 +8,7 @@
     },
     {
       "id": "ASIA-CUP",
-      "name": "FOX TV 🔥",
+      "name": "Asia Cup LIVE ",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup"
     },
