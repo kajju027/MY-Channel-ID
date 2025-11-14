@@ -1,10 +1,10 @@
 {
   "iframes": [
     {
-      "id": "SHOQ",
+      "id": "TEN",
       "name": "CWC FINAL 🏆🫅 ",
       "type": "iframe",
-      "iframeSrc": "https://channel-01.vercel.app/"
+      "iframeSrc": "https://v5on.site/pl.m3u8?url=https://flussonic.superfasthdserver.com/TenSports/index.m3u8"
     },
     {
       "id": "FoxTV",
