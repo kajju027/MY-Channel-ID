@@ -34,7 +34,7 @@
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
     },
     {
       "id": "SONY4",
