@@ -97,6 +97,12 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
     },
     {
+      "id": "SS1H",
+      "name": "Star Sports 1 हिंदी ",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"
+    },
+    {
       "id": "SS1K",
       "name": "Star Kannada SD",
       "type": "iframe",
