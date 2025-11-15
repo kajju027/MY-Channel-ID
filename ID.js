@@ -42,18 +42,18 @@
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_4_hd"
     },
-     {
+    {
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
-     },
-     {
+    },
+    {
       "id": "SSK",
       "name": "Star Sports Khal",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
-     },
+    },
     {
       "id": "TEN",
       "name": "Ten Cricket HD",
@@ -72,7 +72,7 @@
       "type": "iframe",
       "iframeSrc": "https://channel-04.vercel.app/"
     },
-     {
+    {
       "id": "SSS1",
       "name": "Star Select 1",
       "type": "iframe",
@@ -84,7 +84,7 @@
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1114"
     },
-  {
+    {
       "id": "SST1",
       "name": "Star Tamil 1",
       "type": "iframe",
@@ -95,7 +95,7 @@
       "name": "Star Telagu 1",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
-    },  
+    },
     {
       "id": "Hotstar",
       "name": "Jio Hotstar",
@@ -104,7 +104,7 @@
     },
     {
       "id": "SS1H",
-      "name": "Star Sports 1 हिंदी ",
+      "name": "Star Sports 1 हिंदी",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"
     },
@@ -114,6 +114,5 @@
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kannada"
     }
-  
   ]
 }
