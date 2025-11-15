@@ -101,7 +101,7 @@
       "name": "Jio Hotstar",
       "type": "iframe",
       "iframeSrc": "https://channel-04.vercel.app/"
-    }
+    },
     {
       "id": "SS1H",
       "name": "Star Sports 1 हिंदी ",
