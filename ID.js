@@ -95,7 +95,13 @@
       "name": "Star Telagu 1",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
-    },
+    },  
+    {
+      "id": "Hotstar",
+      "name": "Jio Hotstar",
+      "type": "iframe",
+      "iframeSrc": "https://channel-04.vercel.app/"
+    }
     {
       "id": "SS1H",
       "name": "Star Sports 1 हिंदी ",
