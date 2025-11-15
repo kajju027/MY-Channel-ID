@@ -70,7 +70,7 @@
       "id": "SS2",
       "name": "Star Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1141"
+      "iframeSrc": "https://channel-04.vercel.app/"
     },
      {
       "id": "SSS1",
