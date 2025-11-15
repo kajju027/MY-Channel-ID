@@ -2,7 +2,7 @@
   "iframes": [
     {
       "id": "TOFFEE",
-      "name": "Toffee  Live 🔥",
+      "name": "Toffee  Live",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
     },
