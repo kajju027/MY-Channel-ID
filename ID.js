@@ -1,13 +1,13 @@
 {
   "iframes": [
     {
-      "id": "TOFFEE",
+      "id": "",
       "name": "Toffee  Live",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
     },
     {
-      "id": "TOFFEE-2",
+      "id": "",
       "name": "Toffee LIVE ",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup"
@@ -22,19 +22,19 @@
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://cricketstan.github.io/channel-10/"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-1-hd"
     },
     {
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_2_hd"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2-hd"
     },
     {
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://cricketstan.github.io/channel-12/"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
     },
     {
       "id": "SONY4",
@@ -46,7 +46,7 @@
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-5-hd"
     },
     {
       "id": "SSK",
@@ -55,7 +55,7 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
     },
     {
-      "id": "TEN",
+      "id": "",
       "name": "Ten Cricket HD",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=ten_cricket"
