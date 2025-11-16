@@ -19,31 +19,31 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1985"
     },
     {
-      "id": "SONY1",
+      "id": "",
       "name": "Sony Sports 1",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-1-hd"
     },
     {
-      "id": "SONY2",
+      "id": "",
       "name": "Sony Sports 2",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2-hd"
     },
     {
-      "id": "SONY3",
+      "id": "",
       "name": "Sony Sports 3",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
     },
     {
-      "id": "SONY4",
+      "id": "",
       "name": "Sony Sports 4",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-4-hd"
     },
     {
-      "id": "SONY5",
+      "id": "",
       "name": "Sony Sports 5",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-5-hd"
