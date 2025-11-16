@@ -22,7 +22,7 @@
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_1_hd"
+      "iframeSrc": "https://cricketstan.github.io/channel-10/"
     },
     {
       "id": "SONY2",
@@ -34,13 +34,13 @@
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
+      "iframeSrc": "https://cricketstan.github.io/channel-12/"
     },
     {
       "id": "SONY4",
       "name": "Sony Sports 4",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_4_hd"
+      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-4-hd"
     },
     {
       "id": "SONY5",
