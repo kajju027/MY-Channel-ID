@@ -19,31 +19,31 @@
       "iframeSrc": "https://cxsports.pages.dev/JW?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
     },
     {
-      "id": "",
+      "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-1-hd"
     },
     {
-      "id": "",
+      "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2-hd"
     },
     {
-      "id": "",
+      "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
     },
     {
-      "id": "",
+      "id": "SONY4",
       "name": "Sony Sports 4",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-4-hd"
     },
     {
-      "id": "",
+      "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
       "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-5-hd"
@@ -55,7 +55,7 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
     },
     {
-      "id": "",
+      "id": "TEN-CRICKET",
       "name": "Ten Cricket HD",
       "type": "iframe",
       "iframeSrc": "https://bongoflixbd.top/test/?watch=ten_cricket"
