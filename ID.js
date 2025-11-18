@@ -8,7 +8,7 @@
     },
     {
       "id": "TVP",
-      "name": " • ",
+      "name": " Tv Go 😎 ",
       "type": "iframe",
       "iframeSrc": "https://cxsports.pages.dev/JW?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
     },
