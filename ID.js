@@ -22,31 +22,31 @@
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-1-hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-1"
     },
     {
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-2-hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-2"
     },
     {
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-3-hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-3"
     },
     {
       "id": "SONY4",
       "name": "Sony Sports 4",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-4-hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4"
     },
     {
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://allinonereborn.online/sony/ptest.php?id=sony-ten-5-hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-5"
     },
     {
       "id": "SSK",
