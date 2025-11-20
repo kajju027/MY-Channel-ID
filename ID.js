@@ -97,10 +97,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
     },
     {
-      "id": "Hotstar",
+      "id": "HINDI",
       "name": "Jio Hotstar",
       "type": "iframe",
-      "iframeSrc": "https://channel-04.vercel.app/"
+      "iframeSrc": "https://channel-02.vercel.app/"
     },
     {
       "id": "SS1H",
