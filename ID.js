@@ -19,34 +19,34 @@
       "iframeSrc": "https://cxsports.pages.dev/JW?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
     },
     {
-      "id": "SONY1",
-      "name": "Sony Sports 1",
+      "id": "ASTRO",
+      "name": "Astro Cricket",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-1"
+      "iframeSrc": "https://tvwap.github.io/ID19?id=astrocricket"
     },
     {
-      "id": "SONY2",
-      "name": "Sony Sports 2",
+      "id": "TNT-1",
+      "name": "TNT Sports + ",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-2"
+      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt1"
     },
     {
-      "id": "SONY3",
-      "name": "Sony Sports 3",
+      "id": "TNT-2",
+      "name": " TNT Sports +",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-3"
+      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt2"
     },
     {
-      "id": "SONY4",
-      "name": "Sony Sports 4",
+      "id": "TNT-3",
+      "name": "TNT Sports +",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-4"
+      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt3"
     },
     {
-      "id": "SONY5",
-      "name": "Sony Sports 5",
+      "id": "TNT-4",
+      "name": "TNT Sports + ",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=sony-ten-5"
+      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt4"
     },
     {
       "id": "SSK",
