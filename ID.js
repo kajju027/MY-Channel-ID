@@ -55,10 +55,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
     },
     {
-      "id": "TEN-CRICKET",
-      "name": "Ten Cricket HD",
+      "id": "CRICKET",
+      "name": "Cricket HD",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=ten_cricket"
+      "iframeSrc": "https://dillzy.wasmer.app/?url=https://www.youtube.com/live/Z2FyZFnlsQM?si=ArjkN6ECy4Nldcgx"
     },
     {
       "id": "SS1",
