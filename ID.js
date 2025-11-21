@@ -22,7 +22,7 @@
       "id": "ZEE5",
       "name": "ZEE Action HD",
       "type": "iframe",
-      "iframeSrc": "https://sayan-mete.onrender.com/Z5/zee_cinema"
+      "iframeSrc": "https://sayan-mete.onrender.com/Z5/Zee_anmol_cine"
     },
     {
       "id": "TNT-1",
