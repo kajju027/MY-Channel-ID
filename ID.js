@@ -1,10 +1,10 @@
 {
   "iframes": [
     {
-      "id": "A-SPORTS",
-      "name": "A Sports Live",
+      "id": "BUZZ",
+      "name": "Cricbuzz Live",
       "type": "iframe",
-      "iframeSrc": "https://tvwap.github.io/ID19?id=asports"
+      "iframeSrc": "https://cxsports.pages.dev/JW?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "TVP",
