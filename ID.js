@@ -37,10 +37,10 @@
       "iframeSrc": "https://tvwap.github.io/ID11?id=tnt2"
     },
     {
-      "id": "TNT-3",
-      "name": "TNT Sports +",
+      "id": "SLIV",
+      "name": "Sony Sports Liv",
       "type": "iframe",
-      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt3"
+      "iframeSrc": "https://nettv.fun/sonyevent/play.php?id=7ee4f1"
     },
     {
       "id": "SONY1",
