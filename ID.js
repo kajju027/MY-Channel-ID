@@ -4,19 +4,19 @@
       "id": "BUZZ",
       "name": "Cricbuzz Live",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.pages.dev/JW?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.m3u8"
+      "iframeSrc": "https://cxsports.vercel.app/?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "TVP",
       "name": " Sun  TV",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.pages.dev/JW?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
+      "iframeSrc": "https://cxsports.vercel.app/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
     },
     {
       "id": "SS2H",
       "name": "Star Sports 2 (हिंदी)",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.pages.dev/JW?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
+      "iframeSrc": "https://cxsports.vercel.app/?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
     },
     {
       "id": "ZEE5",
