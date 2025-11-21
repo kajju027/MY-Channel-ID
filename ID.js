@@ -43,10 +43,10 @@
       "iframeSrc": "https://nettv.fun/sonyevent/play.php?id=382468"
     },
     {
-      "id": "SONY1",
-      "name": "Sony  Sports",
+      "id": "TOFFEE",
+      "name": "Toffee Sports",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
     },
     {
       "id": "SSK",
