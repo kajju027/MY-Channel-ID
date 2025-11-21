@@ -38,9 +38,9 @@
     },
     {
       "id": "SLIV",
-      "name": "Sony Sports Liv",
+      "name": "Sony Liv",
       "type": "iframe",
-      "iframeSrc": "https://nettv.fun/sonyevent/play.php?id=7ee4f1"
+      "iframeSrc": "https://nettv.fun/sonyevent/play.php?id=382468"
     },
     {
       "id": "SONY1",
