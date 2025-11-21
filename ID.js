@@ -19,10 +19,10 @@
       "iframeSrc": "https://cxsports.pages.dev/JW?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
     },
     {
-      "id": "ASTRO",
-      "name": "Astro Cricket",
+      "id": "ZEE5",
+      "name": "ZEE Action HD",
       "type": "iframe",
-      "iframeSrc": "https://tvwap.github.io/ID19?id=astrocricket"
+      "iframeSrc": "https://sayan-mete.onrender.com/Z5/zee_cinema"
     },
     {
       "id": "TNT-1",
