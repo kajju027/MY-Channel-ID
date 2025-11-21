@@ -43,10 +43,10 @@
       "iframeSrc": "https://tvwap.github.io/ID11?id=tnt3"
     },
     {
-      "id": "TNT-4",
-      "name": "TNT Sports + ",
+      "id": "SONY1",
+      "name": "Sony  Sports",
       "type": "iframe",
-      "iframeSrc": "https://tvwap.github.io/ID11?id=tnt4"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_5_hd"
     },
     {
       "id": "SSK",
