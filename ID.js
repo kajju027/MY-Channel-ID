@@ -55,10 +55,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
     },
     {
-      "id": "CRICKET",
-      "name": "Cricket HD",
+      "id": "SONU",
+      "name": " Sports Live TV",
       "type": "iframe",
-      "iframeSrc": "https://dillzy.wasmer.app/?url=https://www.youtube.com/live/Z2FyZFnlsQM?si=ArjkN6ECy4Nldcgx"
+      "iframeSrc": "https://dillzy.wasmer.app/?url=https://www.youtube.com/live/cYtHu-K3KSg?si=hhm7BoScAowzR6tN"
     },
     {
       "id": "SS1",
