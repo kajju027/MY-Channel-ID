@@ -16,7 +16,7 @@
       "id": "SS2H",
       "name": "Star Sports 2 (हिंदी)",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.vercel.app/?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
+      "iframeSrc": "https://cxsports.pages.dev/JW?url=https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1984.m3u8"
     },
     {
       "id": "ZEE5",
