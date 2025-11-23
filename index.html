@@ -302,7 +302,7 @@ body {
 <script>
 async function initializeApp() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/kajju027/MY-Channel-ID/refs/heads/main/ID.js');
+        const response = await fetch('https://raw.githubusercontent.com/kajju027/MY-Channel-ID/refs/heads/main/id.json');
         if (!response.ok) throw new Error('Failed to fetch JSON');
         const data = await response.json();
 
@@ -362,9 +362,9 @@ function renderErrorUI() {
     document.title = "Error - Stream Not Found";
     contentDiv.innerHTML = `
         <div class="error-message">
-            <h2><i class="fa-solid fa-triangle-exclamation"></i> Stream Not Found</h2>
+            <h2><i class="fa-solid fa-triangle-exclamation"></i> Stream Not Found 😓</h2>
             <p>The requested stream ID is invalid or offline.</p>
-            <a href="#" class="back-link"><i class="fa-solid fa-arrow-left"></i> Back to All Streams</a>
+            <a href="#" class="back-link"><i class="fa-solid fa-arrow-left"></i> Back to All Streams 🔙</a>
         </div>`;
 }
 
