@@ -8,7 +8,7 @@
     },
     {
       "id": "TVP",
-      "name": " Sun  TV",
+      "name": " Sun TV",
       "type": "iframe",
       "iframeSrc": "https://cxsports.vercel.app/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
     },
