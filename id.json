@@ -56,9 +56,9 @@
     },
     {
       "id": "SONU",
-      "name": " Sports Live TV",
+      "name": "TEN Cricket Live",
       "type": "iframe",
-      "iframeSrc": "https://dillzy.wasmer.app/?url=https://www.youtube.com/live/cYtHu-K3KSg?si=hhm7BoScAowzR6tN"
+      "iframeSrc": "https://dth.nettv.fun/player.php?id=153000"
     },
     {
       "id": "SS1",
