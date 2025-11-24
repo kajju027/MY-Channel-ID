@@ -1,64 +1,28 @@
 {
   "iframes": [
     {
-      "id": "BUZZ",
-      "name": "Cricbuzz Live",
+      "id": "SONY5",
+      "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.vercel.app/?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.m3u8"
+      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_5_hd"
     },
     {
-      "id": "TVP",
-      "name": " Sun TV 7",
+      "id": "SONY1",
+      "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://cxsports.vercel.app/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
+      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_1_hd"
     },
     {
-      "id": "SS2H",
-      "name": "Star Sports 2 (हिंदी)",
+      "id": "SONY2",
+      "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20HINDI%20HD"
+      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_2_hd"
     },
     {
-      "id": "ZEE5",
-      "name": "ZEE Action HD",
+      "id": "SONY3",
+      "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://sayan-mete.onrender.com/Z5/Zee_anmol_cine"
-    },
-    {
-      "id": "Hindi",
-      "name": "Sony Sports",
-      "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_sports_1_hd"
-    },
-    {
-      "id": "Willow",
-      "name": " Willow Cricbuzz",
-      "type": "iframe",
-      "iframeSrc": "https://channel-05.vercel.app/"
-    },
-    {
-      "id": "English",
-      "name": "Sony Liv",
-      "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/toffee?id=sony_sports_1_hd"
-    },
-    {
-      "id": "TOFFEE",
-      "name": "Toffee Sports",
-      "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
-    },
-    {
-      "id": "SSK",
-      "name": "Star Sports Khal",
-      "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
-    },
-    {
-      "id": "SONU",
-      "name": "TEN Cricket Live",
-      "type": "iframe",
-      "iframeSrc": "https://dth.nettv.fun/player.php?id=153000"
+      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_3_hd"
     },
     {
       "id": "SS1",
@@ -67,10 +31,40 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1142"
     },
     {
+      "id": "SS1H",
+      "name": "Star Sports 1 हिंदी",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"
+    },
+    {
+      "id": "SS1K",
+      "name": "Star Kannada SD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kannada"
+    },
+    {
+      "id": "SS1T",
+      "name": "Star Telugu 1",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
+    },
+    {
       "id": "SS2",
       "name": "Star Sports 2",
       "type": "iframe",
       "iframeSrc": "https://channel-04.vercel.app/"
+    },
+    {
+      "id": "SS2H",
+      "name": "Star Sports 2 (हिंदी)",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20HINDI%20HD"
+    },
+    {
+      "id": "SSK",
+      "name": "Star Sports Khal",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
     },
     {
       "id": "SSS1",
@@ -91,28 +85,127 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1124"
     },
     {
-      "id": "SS1T",
-      "name": "Star Telagu 1",
+      "id": "SONU",
+      "name": "TEN Cricket Live",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
+      "iframeSrc": "https://dth.nettv.fun/player.php?id=153000"
     },
     {
-      "id": "HINDI",
-      "name": "Jio Hotstar",
+      "id": "TOFFEE",
+      "name": "Toffee Sports",
       "type": "iframe",
-      "iframeSrc": "https://channel-02.vercel.app/"
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
     },
     {
-      "id": "SS1H",
-      "name": "Star Sports 1 हिंदी",
+      "id": "TVP",
+      "name": "Sun TV 7",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"
+      "iframeSrc": "https://cxsports.vercel.app/?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
     },
     {
-      "id": "SS1K",
-      "name": "Star Kannada SD",
+      "id": "Willow",
+      "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kannada"
+      "iframeSrc": "https://channel-05.vercel.app/"
+    },
+    {
+      "id": "ZEE5",
+      "name": "ZEE Action HD",
+      "type": "iframe",
+      "iframeSrc": "https://sayan-mete.onrender.com/Z5/Zee_anmol_cine"
+    },
+
+    /* ---------- EXTRA 15 NEW ITEMS ADDED ---------- */
+
+    {
+      "id": "SONYMAX",
+      "name": "Sony Max HD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1234"
+    },
+    {
+      "id": "SONYSIX",
+      "name": "Sony Six HD",
+      "type": "iframe",
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=sony_six_hd"
+    },
+    {
+      "id": "COLORS",
+      "name": "Colors HD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=colors_hd"
+    },
+    {
+      "id": "STARPLUS",
+      "name": "Star Plus HD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1102"
+    },
+    {
+      "id": "STARGOLD",
+      "name": "Star Gold HD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1105"
+    },
+    {
+      "id": "UTV",
+      "name": "UTV Action",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1402"
+    },
+    {
+      "id": "MTV",
+      "name": "MTV Beats HD",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=mtv_beats_hd"
+    },
+    {
+      "id": "NEWS18",
+      "name": "News18 India",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=news18_india"
+    },
+    {
+      "id": "ACTIONS",
+      "name": "Action Movies Live",
+      "type": "iframe",
+      "iframeSrc": "https://channel-99.vercel.app/"
+    },
+    {
+      "id": "BDSPORTS",
+      "name": "BD Sports 1",
+      "type": "iframe",
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=bdsports_1"
+    },
+    {
+      "id": "BDMOVIES",
+      "name": "Bangla Movies HD",
+      "type": "iframe",
+      "iframeSrc": "https://bongoflixbd.top/test/?watch=bangla_movie"
+    },
+    {
+      "id": "HUM",
+      "name": "HUM TV",
+      "type": "iframe",
+      "iframeSrc": "https://cxsports.vercel.app/?url=https://humtv/live.m3u8"
+    },
+    {
+      "id": "GOLDMINES",
+      "name": "Goldmines Bollywood",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=goldmines"
+    },
+    {
+      "id": "DISNEY",
+      "name": "Disney Kids",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=disney_kids"
+    },
+    {
+      "id": "NATGEO",
+      "name": "Nat Geo Wild",
+      "type": "iframe",
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=nat_geo_wild"
     }
   ]
 }
