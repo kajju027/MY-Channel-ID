@@ -3,30 +3,27 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no" />
-<title>CRICKET NEWS POINT ™</title>
+<title>𝗖𝗥𝗜𝗖𝗞𝗘𝗧 𝗡𝗘𝗪𝗦 𝗣𝗢𝗜𝗡𝗧 </title>
 
-<!-- Fonts (user requested) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,700&family=Bebas+Neue&family=Momo+Trust+Display&family=Science+Gothic:slnt,wdth,wght,CTRS@-10..0,50..200,100..900,0..85&display=swap" rel="stylesheet">
 
-<!-- Player / icons -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shaka-player@4.3.4/dist/controls.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
 :root{
   --bg-color: #121212;
-  --primary-main: #c70c0c; /* user's primary color */
-  --primary-alt: #db1f1f;
-  --primary-alt-dark: #a60000;
+  --primary-main: #0074c7;
+  --primary-alt: #00a8e0;
+  --primary-alt-dark: #005a9b;
   --card-bg: #1e1e1e;
   --text-light: #f1f5f9;
   --text-muted: #94a3b8;
   --border-color: #2d2d2d;
 }
 
-/* base */
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%}
 body{
@@ -40,7 +37,6 @@ body{
   min-height:100vh;
 }
 
-/* container */
 .container{
   width:100%;
   max-width:900px;
@@ -50,7 +46,6 @@ body{
 }
 @keyframes fadeIn{ to{ opacity:1; transform:translateY(0);}}
 
-/* header */
 .stream-header{
   background:var(--card-bg);
   border:1px solid var(--border-color);
@@ -79,15 +74,14 @@ body{
   gap:.5rem;
   font-size:.78rem;
   animation:badgePulse 1.6s infinite;
-  box-shadow:0 6px 18px rgba(199,12,12,0.12);
+  box-shadow:0 6px 18px rgba(0,116,199,0.12);
 }
 @keyframes badgePulse{
-  0%{ transform:scale(1); box-shadow:0 0 0 0 rgba(199,12,12,0.18); }
-  70%{ box-shadow:0 0 0 10px rgba(199,12,12,0); }
-  100%{ box-shadow:0 0 0 0 rgba(199,12,12,0); }
+  0%{ transform:scale(1); box-shadow:0 0 0 0 rgba(0,116,199,0.18); }
+  70%{ box-shadow:0 0 0 10px rgba(0,116,199,0); }
+  100%{ box-shadow:0 0 0 0 rgba(0,116,199,0); }
 }
 
-/* player */
 #player-container{
   width:100%;
   height:56vh;
@@ -99,7 +93,6 @@ body{
   border:1px solid rgba(255,255,255,0.02);
 }
 
-/* info card */
 .info-card{
   background:var(--card-bg);
   border:1px solid var(--border-color);
@@ -119,7 +112,6 @@ body{
   gap:.5rem;
 }
 
-/* buttons */
 .action-button{
   display:inline-flex;
   align-items:center;
@@ -137,10 +129,9 @@ body{
   transition:transform .18s ease, box-shadow .18s ease;
   font-size:1rem;
 }
-.action-button:hover{ transform:translateY(-3px); box-shadow:0 12px 36px rgba(199,12,12,0.18); }
+.action-button:hover{ transform:translateY(-3px); box-shadow:0 12px 36px rgba(0,116,199,0.18); }
 .action-button.copied{ background:linear-gradient(90deg,#22c55e,#4ade80); }
 
-/* back link */
 .back-link{
   display:inline-block;
   width:100%;
@@ -154,7 +145,6 @@ body{
 }
 .back-link:hover{ background:rgba(255,255,255,0.02); color:var(--text-light); }
 
-/* telegram popup */
 .telegram-popup{
   position:fixed;
   top:50%;
@@ -162,79 +152,68 @@ body{
   transform:translate(-50%,-50%) scale(.96);
   background:#131313;
   color:var(--text-light);
-  padding:30px 22px;
-  border-radius:16px;
-  border:1px solid rgba(199,12,12,0.14);
+  padding:35px 28px;
+  border-radius:18px;
+  border:1px solid rgba(0,116,199,0.14);
   box-shadow:0 30px 90px rgba(0,0,0,0.7);
   z-index:12000;
   width:92%;
-  max-width:420px;
+  max-width:450px;
   display:none;
   opacity:0;
   transition:all .28s cubic-bezier(.2,.9,.2,1);
   text-align:center;
 }
 .telegram-popup.show{ display:block; opacity:1; transform:translate(-50%,-50%) scale(1); }
-.telegram-popup h2{ color:var(--primary-main); font-size:1.6rem; margin-bottom:.55rem; text-shadow:0 0 12px rgba(199,12,12,0.06); }
-.telegram-popup p{ color:var(--text-muted); line-height:1.5; margin-bottom:1rem; }
+.telegram-popup h2{ color:var(--primary-main); font-size:1.8rem; margin-bottom:.55rem; text-shadow:0 0 12px rgba(0,116,199,0.06); }
+.telegram-popup p{ color:var(--text-muted); line-height:1.5; margin-bottom:1.2rem; }
 
-/* join/ok buttons inside popup */
 .telegram-popup button{
   width:100%;
-  padding:12px;
+  padding:14px;
   border-radius:10px;
   border:0;
   font-weight:800;
   cursor:pointer;
+  transition:transform .1s ease, box-shadow .1s ease;
 }
+.telegram-popup button:active{ transform:scale(0.98); }
+
 .telegram-popup .join-btn{
   background:linear-gradient(90deg,var(--primary-main),var(--primary-alt));
   color:#fff;
-  box-shadow:0 10px 30px rgba(199,12,12,0.14);
-  margin-bottom:.6rem;
+  box-shadow:0 10px 30px rgba(0,116,199,0.20);
+  margin-bottom:.8rem;
+  padding:18px;
+  font-size:1.2rem;
 }
 .telegram-popup .joined-btn{
   background:#222;
   color:var(--text-light);
-  border:1px solid rgba(255,255,255,0.02);
+  border:1px solid rgba(255,255,255,0.05);
+  padding:16px;
+  font-size:1.1rem;
 }
 
-/* visitor dot & popup */
-.visitor-dot{
-  position:fixed;
-  right:24px;
-  bottom:22px;
-  width:22px;
-  height:22px;
-  border-radius:50%;
-  background:var(--primary-main);
-  box-shadow:0 8px 28px rgba(199,12,12,0.25);
-  z-index:11000;
-  cursor:pointer;
+.visitor-dot, .visitor-popup{
+  display:none !important;
 }
-.visitor-popup{
-  display:none;
-  position:fixed;
-  right:24px;
-  bottom:64px;
-  background:#0f0f0f;
-  border-radius:10px;
-  padding:10px;
-  border:1px solid rgba(255,255,255,0.03);
-  box-shadow:0 12px 40px rgba(0,0,0,0.6);
-  z-index:11000;
-}
-.visitor-popup img{ width:150px; height:auto; display:block; }
 
-/* error */
-.error-message{ text-align:center; padding:3.2rem 1rem; background:var(--card-bg); border-radius:12px; border:1px solid var(--border-color); }
+.error-message{ 
+    text-align:center; 
+    padding:3.2rem 1rem; 
+    background:var(--card-bg); 
+    border-radius:12px; 
+    border:1px solid var(--border-color); 
+    margin-top: 10vh;
+}
 .error-message h2{ color:var(--primary-main); margin-bottom:.6rem; font-size:1.4rem; }
 
-/* responsive */
 @media (max-width:600px){
   #player-container{ height:48vh; }
   .stream-header h1{ font-size:1.05rem; }
-  .telegram-popup{ padding:22px; width:94%; max-width:360px; }
+  .telegram-popup{ padding:25px 20px; width:94%; max-width:380px; }
+  .telegram-popup h2{ font-size:1.5rem; }
 }
 </style>
 </head>
@@ -243,43 +222,30 @@ body{
   <div id="stream-content" aria-live="polite"></div>
 </main>
 
-<!-- Telegram / WhatsApp popup -->
 <div class="telegram-popup" id="telegramPopup" role="dialog" aria-modal="true" aria-hidden="true">
-  <h2><i class="fa-brands fa-telegram"></i> Support Us!</h2>
-  <p>Join our WhatsApp Channel <strong>𝗖𝗥𝗜𝗖𝗞𝗘𝗧 𝗡𝗘𝗪𝗦 𝗣𝗢𝗜𝗡𝗧</strong></p>
+  <h2><i class="fa-brands fa-whatsapp"></i> Join Our Channel</h2>
+  <p>Follow us on our Official WhatsApp Channel <strong>𝗖𝗥𝗜𝗖𝗞𝗘𝗧 𝗡𝗘𝗪𝗦 𝗣𝗢𝗜𝗡𝗧</strong></p>
   <a id="joinLink" href="https://whatsapp.com/channel/0029VaeylYYBPzjVNomWuZ0T" target="_blank" rel="noopener">
     <button class="join-btn">Join Now</button>
   </a>
   <button class="joined-btn" id="alreadyJoinedBtn">Already Joined</button>
 </div>
 
-<!-- visitor UI -->
-<div class="visitor-dot" id="visitorDot" title="Visitors"></div>
-<div class="visitor-popup" id="visitorPopup" aria-hidden="true">
-  <img src="https://www.counter12.com/img-9205Yd3W54Z3y43Z-5.gif" alt="Visitor Counter">
+<div id="hiddenVisitorCounter" style="display:none;">
+  <img src="https://www.counter12.com/img-9205Yd3W54Z3y43Z-5.gif" alt="Visitor Counter Tracker">
 </div>
 
-<!-- All JS (single block) -->
 <script>
-/*
-  Full page JS: fetch JSON, render UI, share-copy, popup logic, visitor dot toggle.
-  NOTE: If you want different JSON source change the FETCH_URL variable.
-*/
 (function(){
   const FETCH_URL = 'https://raw.githubusercontent.com/kajju027/CxSports-Live/refs/heads/main/id.json';
 
-  // DOM refs
   const streamContent = document.getElementById('stream-content');
   const telegramPopup = document.getElementById('telegramPopup');
   const joinLink = document.getElementById('joinLink');
   const alreadyJoinedBtn = document.getElementById('alreadyJoinedBtn');
-  const visitorDot = document.getElementById('visitorDot');
-  const visitorPopup = document.getElementById('visitorPopup');
-
-  // helpers
+  
   function safeHTML(str){ const d = document.createElement('div'); d.textContent = str; return d.innerHTML; }
 
-  // Render functions
   function renderIframeUI(data){
     document.title = `${data.name} • CRICKET NEWS POINT`;
     streamContent.innerHTML = `
@@ -293,7 +259,7 @@ body{
       </div>
 
       <div class="info-card">
-        <h2><i class="fa-solid fa-bell"></i> Follow us for Updates!</h2>
+        <h2><i class="fa-brands fa-whatsapp"></i> Follow us for Updates!</h2>
         <a href="${joinLink.href}" target="_blank" rel="noopener" class="action-button">
           <i class="fa-brands fa-whatsapp"></i> Click Here To Join WhatsApp
         </a>
@@ -307,7 +273,6 @@ body{
       <a href="#" class="back-link" id="backLink"><i class="fa-solid fa-arrow-left"></i> Back to All Streams</a>
     `;
 
-    // share button
     const shareBtn = document.getElementById('shareButton');
     if(shareBtn){
       shareBtn.addEventListener('click', async function(){
@@ -316,7 +281,6 @@ body{
           if(navigator.clipboard && navigator.clipboard.writeText){
             await navigator.clipboard.writeText(url);
           } else {
-            // fallback
             const ta = document.createElement('textarea');
             ta.value = url;
             document.body.appendChild(ta);
@@ -337,89 +301,73 @@ body{
 
   function renderErrorUI(){
     document.title = 'Error - Stream Not Found';
+    
+    document.querySelector('.container').style.opacity = 1; 
+    document.querySelector('.container').style.transform = 'translateY(0)';
+    
     streamContent.innerHTML = `
       <div class="error-message">
         <h2><i class="fa-solid fa-triangle-exclamation"></i> Stream Not Found</h2>
-        <p>The requested stream ID is invalid or offline.</p>
+        <p>The requested stream ID is invalid or offline, or no stream ID was provided.</p>
         <a href="#" class="back-link"><i class="fa-solid fa-arrow-left"></i> Back to All Streams</a>
       </div>
     `;
   }
 
-  // Popup logic
-  function showPopup(delay = 1200){
-    setTimeout(()=>{
-      telegramPopup.classList.add('show');
-      telegramPopup.setAttribute('aria-hidden','false');
-    }, delay);
+  function showPopup(){
+    
+    telegramPopup.classList.add('show');
+    telegramPopup.setAttribute('aria-hidden','false');
   }
+  
   function closePopup(){
     telegramPopup.classList.remove('show');
     telegramPopup.setAttribute('aria-hidden','true');
+    
   }
 
-  // visitor dot toggle
-  visitorDot.addEventListener('click', ()=>{
-    if(visitorPopup.style.display === 'block'){
-      visitorPopup.style.display = 'none';
-      visitorPopup.setAttribute('aria-hidden','true');
-    } else {
-      visitorPopup.style.display = 'block';
-      visitorPopup.setAttribute('aria-hidden','false');
-    }
-  });
-
-  // already joined closes popup
   alreadyJoinedBtn.addEventListener('click', closePopup);
+  joinLink.addEventListener('click', closePopup);
 
-  // Main init
   async function initializeApp(){
     try{
       const resp = await fetch(FETCH_URL, {cache:'no-store'});
       if(!resp.ok) throw new Error('Fetch failed: ' + resp.status);
       const data = await resp.json();
 
-      // find by id param
       const urlParams = new URLSearchParams(window.location.search);
       const streamId = urlParams.get('id') || urlParams.get('channel') || null;
 
       if(!streamId){
-        // fallback — if only one entry or first entry desired, you can adjust here.
-        // We'll try to render first iframe if exists
-        if(Array.isArray(data.iframes) && data.iframes.length){
-          renderIframeUI(data.iframes[0]);
-          showPopup(1200);
-        } else {
-          renderErrorUI();
-        }
+        
+        renderErrorUI(); 
         return;
       }
 
       const streamData = Array.isArray(data.iframes) ? data.iframes.find(item => String(item.id) === String(streamId)) : null;
       if(streamData){
         renderIframeUI(streamData);
-        showPopup(1200);
+        showPopup();
       } else {
+        
         renderErrorUI();
       }
     }catch(err){
+      
       console.error('initializeApp error:', err);
       renderErrorUI();
     }
   }
 
-  // Kick off on DOM ready
   if(document.readyState === 'loading'){
     document.addEventListener('DOMContentLoaded', initializeApp);
   } else {
     initializeApp();
   }
 
-  // Accessibility: close popup on Escape
   document.addEventListener('keydown', (e)=>{
     if(e.key === 'Escape') {
       if(telegramPopup.classList.contains('show')) closePopup();
-      if(visitorPopup.style.display === 'block') { visitorPopup.style.display = 'none'; visitorPopup.setAttribute('aria-hidden','true'); }
     }
   });
 
