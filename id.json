@@ -71,16 +71,16 @@
       "id": "SSS2",
       "name": "Star Select 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1114"
+      "iframeSrc": "https://cricketstan.github.io/Channel-14/"
     },
     {
       "id": "SST1",
       "name": "Star Tamil 1",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1124"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20tamilHD"
     },
     {
-      "id": "SS1K",
+      "id": "SS2K",
       "name": "Star Kannada SD",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20kannada"
