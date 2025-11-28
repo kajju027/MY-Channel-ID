@@ -87,22 +87,22 @@
     },
 
     {
-      "id": "SONU",
-      "name": "TEN Cricket Live",
+      "id": "SS1",
+      "name": "Star Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://dth.nettv.fun/player.php?id=153000"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=star1in"
     },
     {
-      "id": "TOFFEE",
-      "name": "Toffee Sports",
+      "id": "BUZZ2",
+      "name": "Cricbuzz 2",
       "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=willowextra"
     },
     {
       "id": "Willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/allmix?id=441"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=willowusa"
     },
     {
       "id": "BUZZ",
@@ -126,7 +126,7 @@
       "id": "ASPORTS",
       "name": "A Sports",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/allmix?id=120"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=asportshd"
     },
     {
       "id": "",
