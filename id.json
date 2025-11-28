@@ -102,7 +102,7 @@
       "id": "Willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://channel-05.vercel.app/"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/allmix?id=441"
     },
     {
       "id": "BUZZ",
@@ -123,10 +123,10 @@
       "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
     },    
     {
-      "id": "",
-      "name": "ZEE Action HD",
+      "id": "ASPORTS",
+      "name": "A Sports",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/allmix?id=120"
     },
     {
       "id": "",
