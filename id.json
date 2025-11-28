@@ -33,9 +33,9 @@
 
     {
       "id": "SS1H",
-      "name": "Star Sports 1 হিন্দী",
+      "name": "Star Sports 1 हिंदी",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20Hindi%20HD"
+      "iframeSrc": "https://channel-02.vercel.app/"
     },
     {
       "id": "SS1T",
@@ -59,13 +59,13 @@
       "id": "SSK",
       "name": "Star Sports Khal",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1998"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20khel"
     },
     {
       "id": "SSS1",
       "name": "Star Select 1",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1123"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star%20Sports%20Select%201"
     },
     {
       "id": "SSS2",
