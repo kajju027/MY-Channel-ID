@@ -4,31 +4,31 @@
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_5_hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009281"
     },
     {
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_1_hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009280"
     },
     {
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_2_hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009279"
     },
     {
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://allottplay.com/tv/toffee/?play=sony_sports_3_hd"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009283"
     },
     {
-      "id": "SS1",
-      "name": "Star Sports 1",
+      "id": "SONY4",
+      "name": "Sony Sports 4",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1142"
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000119187"
     },
     {
       "id": "SS1H",
