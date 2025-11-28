@@ -129,10 +129,10 @@
       "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=asportshd"
     },
     {
-      "id": "",
-      "name": "Star Plus HD",
+      "id": "TEN",
+      "name": "TEN Sports HD",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=tenspk"
     },
     {
       "id": "",
