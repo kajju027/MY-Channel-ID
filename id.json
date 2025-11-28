@@ -1,5 +1,9 @@
 {
   "iframes": [
+
+    /* -------------------------
+        MAIN SPORTS – SONY GROUP
+       -------------------------*/
     {
       "id": "SONY5",
       "name": "Sony Sports 5",
@@ -30,6 +34,10 @@
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000119187"
     },
+
+    /* -------------------------
+        MAIN SPORTS – STAR SPORTS GROUP
+       -------------------------*/
     {
       "id": "SS1H",
       "name": "Star Sports 1 हिंदी",
@@ -60,6 +68,7 @@
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star2%20HINDI%20HD"
     },
+
     {
       "id": "SSK",
       "name": "Star Sports Khal",
@@ -84,6 +93,10 @@
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1124"
     },
+
+    /* -------------------------
+        MAIN SPECIAL SPORTS / LIVE STREAMS
+       -------------------------*/
     {
       "id": "SONU",
       "name": "TEN Cricket Live",
@@ -97,24 +110,11 @@
       "iframeSrc": "https://bongoflixbd.top/test/?watch=match-asiacup-2"
     },
     {
-      "id": "TVP",
-      "name": "Sun TV 7",
-      "type": "iframe",
-      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
-    },
-    {
       "id": "Willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
       "iframeSrc": "https://channel-05.vercel.app/"
     },
-    {
-      "id": "ZEE5",
-      "name": "ZEE Action HD",
-      "type": "iframe",
-      "iframeSrc": "https://sayan-mete.onrender.com/Z5/Zee_anmol_cine"
-    },
-
     {
       "id": "BUZZ",
       "name": "Cricbuzz",
@@ -127,83 +127,142 @@
       "type": "iframe",
       "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8"
     },
+
     {
-      "id": "COLORS",
-      "name": "Colors HD",
+      "id": "TVP",
+      "name": "Sun TV 7",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=colors_hd"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8"
+    },
+
+    /* -------------------------
+       ENTERTAINMENT / MOVIES (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
+      "name": "ZEE Action HD",
+      "type": "iframe",
+      "iframeSrc": ""
     },
     {
-      "id": "STARPLUS",
+      "id": "",
       "name": "Star Plus HD",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1102"
+      "iframeSrc": ""
     },
     {
-      "id": "STARGOLD",
+      "id": "",
       "name": "Star Gold HD",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1105"
+      "iframeSrc": ""
     },
     {
-      "id": "UTV",
+      "id": "",
       "name": "UTV Action",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jiohd?id=1402"
+      "iframeSrc": ""
     },
     {
-      "id": "MTV",
-      "name": "MTV Beats HD",
-      "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=mtv_beats_hd"
-    },
-    {
-      "id": "NEWS18",
-      "name": "News18 India",
-      "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=news18_india"
-    },
-    {
-      "id": "ACTIONS",
-      "name": "Action Movies Live",
-      "type": "iframe",
-      "iframeSrc": "https://channel-99.vercel.app/"
-    },
-    {
-      "id": "BDSPORTS",
-      "name": "BD Sports 1",
-      "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=bdsports_1"
-    },
-    {
-      "id": "BDMOVIES",
-      "name": "Bangla Movies HD",
-      "type": "iframe",
-      "iframeSrc": "https://bongoflixbd.top/test/?watch=bangla_movie"
-    },
-    {
-      "id": "HUM",
-      "name": "HUM TV",
-      "type": "iframe",
-      "iframeSrc": "https://cxsports.vercel.app/?url=https://humtv/live.m3u8"
-    },
-    {
-      "id": "GOLDMINES",
+      "id": "",
       "name": "Goldmines Bollywood",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=goldmines"
+      "iframeSrc": ""
     },
     {
-      "id": "DISNEY",
+      "id": "",
+      "name": "Action Movies Live",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+         BANGLA / BD CHANNELS (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
+      "name": "BD Sports 1",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "Bangla Movies HD",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+        KIDS / MUSIC (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
       "name": "Disney Kids",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=disney_kids"
+      "iframeSrc": ""
     },
     {
-      "id": "NATGEO",
+      "id": "",
+      "name": "MTV Beats HD",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+        NEWS (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
+      "name": "News18 India",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+        WILDLIFE / KNOWLEDGE (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
       "name": "Nat Geo Wild",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=nat_geo_wild"
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+        INTERNATIONAL / PAKISTAN (EMPTY)
+       -------------------------*/
+    {
+      "id": "",
+      "name": "HUM TV",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+
+    /* -------------------------
+       EXTRA SLOTS (EMPTY)
+      -------------------------*/
+    {
+      "id": "",
+      "name": "Extra Slot 1",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "Extra Slot 2",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "Extra Slot 3",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "Extra Slot 4",
+      "type": "iframe",
+      "iframeSrc": ""
     }
   ]
 }
