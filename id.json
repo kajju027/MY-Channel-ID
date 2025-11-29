@@ -102,7 +102,7 @@
       "id": "Willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=willowusa"
+      "iframeSrc": "https://channel-05.vercel.app/"
     },
     {
       "id": "BUZZ",
