@@ -141,16 +141,16 @@
       "iframeSrc": "https://tvwap.pages.dev/?id=AND%20PICTURES&name=zee5"
     },
     {
-      "id": "FC",
-      "name": "Fancode TV",
+      "id": "PRIME",
+      "name": "Amazon Prime",
       "type": "iframe",
-      "iframeSrc": "https://in-mc-fdlive.fancode.com/mumbai/138623_english_hls_2d87ea763b91022_1ta-di_h264/index.m3u8"
+      "iframeSrc": "https://hff-eight.vercel.app/"
     },
     {
-      "id": "",
-      "name": "Goldmines Bollywood",
+      "id": "TNT",
+      "name": "TNT Universe",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://cricketstan.github.io/TNT-1/"
     },
     {
       "id": "",
