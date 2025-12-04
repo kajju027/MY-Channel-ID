@@ -4,7 +4,7 @@
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009281"
+      "iframeSrc": "https://m3uok.pages.dev/?id=7"
     },
     {
       "id": "SONY1",
@@ -16,13 +16,13 @@
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009279"
+      "iframeSrc": "https://m3uok.pages.dev/?id=5"
     },
     {
       "id": "SONY3",
       "name": "Sony Sports 3",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/sony?id=1000009283"
+      "iframeSrc": "https://m3uok.pages.dev/?id=6"
     },
     {
       "id": "SONY4",
@@ -102,7 +102,7 @@
       "id": "Willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://channel-05.vercel.app/"
+      "iframeSrc": "https://tvlive.pages.dev/?id=willowusa&name=crichd"
     },
     {
       "id": "BUZZ",
