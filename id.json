@@ -96,7 +96,7 @@
       "id": "BUZZ2",
       "name": "Cricbuzz 2",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=willowextra"
+      "iframeSrc": "https://tvlive.pages.dev/?id=willowextra&name=crichd"
     },
     {
       "id": "Willow",
