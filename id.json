@@ -87,7 +87,7 @@
     },
 
     {
-      "id": "SS1",
+      "id": "",
       "name": "Star Sports 1",
       "type": "iframe",
       "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=star1in"
@@ -120,7 +120,7 @@
       "id": "SKY-CRIC",
       "name": "Sky Cricket NZ",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=skyscric"
+      "iframeSrc": "https://tvlive.pages.dev/?id=skyscric&name=crichd"
     },    
     {
       "id": "ASPORTS",
