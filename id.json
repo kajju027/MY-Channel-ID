@@ -38,10 +38,10 @@
       "iframeSrc": "https://channel-02.vercel.app/"
     },
     {
-      "id": "SS1T",
-      "name": "Star Telugu 1",
+      "id": "SS1",
+      "name": "Star Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star1%20teluguHD"
+      "iframeSrc": "https://tvlive.pages.dev/?id=star1in&name=crichd"
     },
     {
       "id": "SS2",
