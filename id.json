@@ -153,10 +153,10 @@
       "iframeSrc": "https://cricketstan.github.io/TNT-1/"
     },
     {
-      "id": "",
-      "name": "Action Movies Live",
+      "id": "ZEEC",
+      "name": "ILT20 Live ",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://alpha-server-two.vercel.app/"
     },
     {
       "id": "",
