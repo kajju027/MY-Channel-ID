@@ -1,47 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.css">
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      background: #000;
-      overflow: hidden;
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.css">
+
+<style>
+    html,body{
+        margin:0;
+        padding:0;
+        height:100%;
+        background:#000;
+        overflow:hidden;
     }
-    #player {
-      width: 100vw;
-      height: 100vh;
+    #player{
+        width:100vw;
+        height:100vh;
     }
-  </style>
+</style>
 </head>
 <body>
 
-  <div id="player"
-       data-plyr-provider="youtube"
-       data-plyr-embed-id="IIdj-TAbZFo">
-  </div>
+<div id="player"
+     data-plyr-provider="youtube"
+     data-plyr-embed-id="IIdj-TAbZFo">
+</div>
 
-  <script src="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.polyfilled.min.js"></script>
-  <script>
-    const player = new Plyr('#player', {
-      controls: [
-        'play', 'progress', 'current-time', 'mute', 'volume', 'settings',
-        'pip', 'airplay', 'fullscreen'
-      ],
-      youtube: {
-        noCookie: true,
-        params: {
-          modestbranding: 1,
-          rel: 0,
-          iv_load_policy: 3
+<script src="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.polyfilled.min.js"></script>
+
+<script>
+const player = new Plyr('#player', {
+    autoplay: true,     // Auto-play enabled
+    muted: true,        // Must be muted for autoplay
+    clickToPlay: true,
+    controls: [
+        'play','progress','current-time','mute','volume','settings','pip','airplay','fullscreen'
+    ],
+    youtube:{
+        noCookie:true,
+        params:{
+            modestbranding:1,
+            rel:0,
+            iv_load_policy:3,
+            playsinline:1
         }
-      }
-    });
-  </script>
+    }
+});
+</script>
 
 </body>
 </html>
