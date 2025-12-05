@@ -87,10 +87,10 @@
     },
 
     {
-      "id": "",
-      "name": "Star Sports 1",
+      "id": "TNT",
+      "name": "TNT Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/crichd?id=star1in"
+      "iframeSrc": "https://tvlive.pages.dev/?id=bbtsp1&name=crichd"
     },
     {
       "id": "BUZZ2",
