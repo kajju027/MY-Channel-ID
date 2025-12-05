@@ -1,69 +1,47 @@
-<!doctype html>
-<html lang="bn">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Plyr + YouTube (legal embed) — demo</title>
-
-  <!-- Plyr CSS (CDN) -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.css" />
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.css">
   <style>
-    body {
+    html, body {
       margin: 0;
-      min-height: 100vh;
-      display: grid;
-      place-items: center;
-      background: #0b0b0b;
-      color: #fff;
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-    }
-    .player-wrapper {
-      width: min(1100px, 95vw);
-      aspect-ratio: 16/9;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.7);
-      border-radius: 10px;
+      padding: 0;
+      height: 100%;
+      background: #000;
       overflow: hidden;
     }
-    /* আমরা অতিরিক্ত কোনো কাস্টম ব্র্যান্ডিং যোগ করিনা — প্রশ্ন অনুযায়ী */
+    #player {
+      width: 100vw;
+      height: 100vh;
+    }
   </style>
 </head>
 <body>
-  <div class="player-wrapper">
-    <!-- Plyr YouTube embed (uses YouTube iframe under the hood) -->
-    <div id="player" data-plyr-provider="youtube" data-plyr-embed-id="IIdj-TAbZFo"></div>
+
+  <div id="player"
+       data-plyr-provider="youtube"
+       data-plyr-embed-id="IIdj-TAbZFo">
   </div>
 
-  <!-- Plyr JS (CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/plyr@3.7.8/dist/plyr.polyfilled.min.js"></script>
-
   <script>
-    // Plyr init with YouTube-specific params.
-    // NOTE: These params keep playback through YouTube iframe (TOS-compliant).
     const player = new Plyr('#player', {
-      controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'captions', 'settings', 'fullscreen'],
-      clickToPlay: true,
-      disableContextMenu: true,
-      // YouTube-specific options passed to embed URL query params:
+      controls: [
+        'play', 'progress', 'current-time', 'mute', 'volume', 'settings',
+        'pip', 'airplay', 'fullscreen'
+      ],
       youtube: {
-        // noCookie: true -> uses youtube-nocookie domain for enhanced privacy.
-        // modestbranding: 1 -> tries to minimize YouTube logo prominence (cannot fully remove).
-        // rel: 0 -> related videos from same channel (best effort; behavior changed by YouTube).
-        // iv_load_policy: 3 -> hides video annotations/interactive cards if possible.
-        // playsinline not directly set here; browsers control inline behavior on mobile.
         noCookie: true,
         params: {
           modestbranding: 1,
           rel: 0,
-          iv_load_policy: 3,
-          // Important: controls and branding must remain per YouTube TOS.
-          // do not set controls=0 because user must have play controls accessible.
+          iv_load_policy: 3
         }
       }
     });
-
-    // Optional: Make sure autoplay doesn't violate browser policies.
-    // We don't force autoplay — user can click play (safer and more compatible).
   </script>
+
 </body>
 </html>
