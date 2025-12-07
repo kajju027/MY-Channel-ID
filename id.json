@@ -154,7 +154,7 @@
     },
     {
       "id": "ZEEC",
-      "name": "ILT20 Live ",
+      "name": "DP World IL T20 ",
       "type": "iframe",
       "iframeSrc": "https://alpha-server-two.vercel.app/"
     },
