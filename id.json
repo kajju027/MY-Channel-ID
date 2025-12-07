@@ -97,16 +97,16 @@
       "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8"
     },
     {
-      "id": "",
-      "name": "Cricbuzz 2",
+      "id": "SKY",
+      "name": "Sky Cricket",
       "type": "iframe",
-      "iframeSrc": "https://tvlive.pages.dev/?id=willowextra&name=crichd"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/http://178.33.239.54:8080/503/index.m3u8"
     },
     {
-      "id": "SKY-CRIC",
-      "name": "Sky Cricket NZ",
+      "id": "SKY4K",
+      "name": "Sky Cricket 4K",
       "type": "iframe",
-      "iframeSrc": "https://tvlive.pages.dev/?id=skyscric&name=crichd"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/http://ch01.sh365.org/24234/index.m3u8?token=c49SP8TrtUZfww"
     },
     {
       "id": "ASPORTS",
