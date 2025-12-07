@@ -4,13 +4,13 @@
       "id": "SONY1",
       "name": "Sony Sports 1",
       "type": "iframe",
-      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/http://103.175.242.10:8080/sonyten1/index.m3u8"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8"
     },
     {
       "id": "SONY2",
       "name": "Sony Sports 2",
       "type": "iframe",
-      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/http://103.175.242.10:8080/sonyten2/index.m3u8"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8"
     },
     {
       "id": "SONY3",
@@ -28,7 +28,7 @@
       "id": "SONY5",
       "name": "Sony Sports 5",
       "type": "iframe",
-      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/http://103.175.242.10:8080/sonyten5/index.m3u8"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8"
     },
     {
       "id": "SS1",
