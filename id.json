@@ -37,16 +37,16 @@
       "iframeSrc": "https://tvlive.pages.dev/?id=star1in&name=crichd"
     },
     {
-      "id": "SS1H",
+      "id": "SS1",
       "name": "Star Sports 1 হিন্দী",
       "type": "iframe",
       "iframeSrc": "https://channel-02.vercel.app/"
     },
     {
-      "id": "SSS1",
-      "name": "Star Select 1",
+      "id": "SS1H",
+      "name": "Star Sports 1 Hindi",
       "type": "iframe",
-      "iframeSrc": "https://tvgo.neocities.org/APPTV/jspo?id=Star%20Sports%20Select%201"
+      "iframeSrc": "https://sayan-jw-2025.pages.dev/JW?url=https://anywhere.pwisetthon.com/https://starsportshindiii.pages.dev/index.m3u8"
     },
     {
       "id": "SS2",
