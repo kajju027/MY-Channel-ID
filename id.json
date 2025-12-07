@@ -619,16 +619,16 @@
       "iframeSrc": ""
     },
     {
-      "id": "",
-      "name": "",
+      "id": "FC2",
+      "name": "Fancode Worldwide SD",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://fancode-worldwide-2-sayan.vercel.app/"
     },
     {
-      "id": "",
-      "name": "",
+      "id": "FC1",
+      "name": "Fancode Worldwide 4K",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://fancode-worldwide-1-sayan.vercel.app/"
     }
   ]
 }
