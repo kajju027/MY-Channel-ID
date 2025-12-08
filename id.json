@@ -175,50 +175,50 @@
       "iframeSrc": "https://yooutube.pages.dev/?url=https://www.youtube.com/live/LoC25Mz6PCs"
     },
     {
-      "id": "NEWS18",
-      "name": "News18 India",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "NATGEO",
-      "name": "Nat Geo Wild",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "HUMTV",
-      "name": "HUM TV",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "SCUP",
-      "name": "Extra Slot (SCUP)",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "ESLOT1",
-      "name": "Extra Slot 1",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "ESLOT2",
-      "name": "Extra Slot 2",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "ESLOT3",
-      "name": "Extra Slot 3",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
     {
-      "id": "ESLOT4",
-      "name": "Extra Slot 4",
+      "id": "",
+      "name": "",
       "type": "iframe",
       "iframeSrc": ""
     },
@@ -283,36 +283,6 @@
       "iframeSrc": ""
     },
     {
-      "id": "NEW_SLOT_11",
-      "name": "New Empty Slot 11",
-      "type": "iframe",
-      "iframeSrc": ""
-    },
-    {
-      "id": "NEW_SLOT_12",
-      "name": "New Empty Slot 12",
-      "type": "iframe",
-      "iframeSrc": ""
-    },
-    {
-      "id": "NEW_SLOT_13",
-      "name": "New Empty Slot 13",
-      "type": "iframe",
-      "iframeSrc": ""
-    },
-    {
-      "id": "NEW_SLOT_14",
-      "name": "New Empty Slot 14",
-      "type": "iframe",
-      "iframeSrc": ""
-    },
-    {
-      "id": "NEW_SLOT_15",
-      "name": "New Empty Slot 15",
-      "type": "iframe",
-      "iframeSrc": ""
-    },
-    {
       "id": "",
       "name": "",
       "type": "iframe",
@@ -617,6 +587,36 @@
       "name": "",
       "type": "iframe",
       "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "WWE",
+      "name": "WWE Live Stream",
+      "type": "iframe",
+      "iframeSrc": "https://wwe-peacock-tv-1-sayan.vercel.app/"
     },
     {
       "id": "FC2",
